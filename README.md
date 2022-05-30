@@ -35,6 +35,18 @@
 
 ##### 2. 模糊阈值分割 Threshold segmentation
 
-附赠大津阈值分割 Otsu
+- 附赠大津阈值分割 Otsu
 
 <img src=".assets/fuzzy_seg.png" alt="fuzzy_seg" style="zoom:67%;" />
+
+### 3. Harris 角点检测 Harris Corner Detection
+
+> cv2.filter2D
+
+<img src=".assets/cornerDetect.png" alt="Corner Detection" style="zoom: 67%;" />
+
+### 4. 透射变换 Perspective Transform
+
+- 透射变换 + 图像融合
+
+<img src=".assets/perspective transform.png" alt="perspective transform" style="zoom:67%;" />
